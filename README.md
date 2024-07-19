@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi everbody!
+
+   I'm Nicollas Peres Puss. Database Engineer, specialized in high availability and performance. Experience with Oracle Databases, MongoDB and Linux/Unix Systems. 
+   Always motivated to learn new technologies, processes and features, applying them in his work routine. Curious and adept at DevOps work culture.
 
 <!--
 **nicollaspuss/nicollaspuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
