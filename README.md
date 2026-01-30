@@ -1,5 +1,5 @@
 # Hi, everyone! 👋
-# Database Engineer passionate to learn!
+# Database Engineer passionate to learn.
 
 🔭 Currently working with **Oracle Database, MongoDB, Python, Flask, Shell Script, SQL, and PL/SQL**.  
 📚 Always eager to learn new technologies and best practices in data engineering.
@@ -17,8 +17,7 @@
 
 # 📂 Projects
 
-- [📊 Website to the University System](https://github.com/nicollaspuss/react-unisinos-task)  
-  Web application for dynamic enrollment class to the University.
+- 📊 Website for dynamic enrollment class the University System: https://github.com/nicollaspuss/react-unisinos-task
 
 ---
 
