@@ -18,6 +18,7 @@
 # 📂 Projects
 
 - 📊 Website for dynamic enrollment class the University System: https://github.com/nicollaspuss/react-unisinos-task
+- 📊 Mobile App for the food assessment. Project develop from University System: https://github.com/nicollaspuss/unisinos-mobile
 
 ---
 
