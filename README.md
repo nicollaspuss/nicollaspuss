@@ -1,5 +1,5 @@
 # Hi, everyone! 👋
-# Database Engineer passionate to learn.
+# Database Engineer | Oracle DBA | DBRE | Database Administrator
 
 🔭 Currently working with **Oracle Database, MongoDB, Python, Flask, Shell Script, SQL, and PL/SQL**.  
 📚 Always eager to learn new technologies and best practices in data engineering.
